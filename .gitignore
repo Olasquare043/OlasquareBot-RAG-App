@@ -30,7 +30,7 @@ venv/
 .streamlit/secrets.toml
 
 # ChromaDB
-chroma_db/
+# chroma_db/
 
 # IDE
 .vscode/
